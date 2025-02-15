@@ -18,7 +18,7 @@ SecurePass is a powerful and intuitive application designed to create strong and
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RaunitPathrabe16/CODSOFT-Task3.git
+   git clone https://github.com/RaunitPathrabe16/Password-Generator.git
    ```
 2. Navigate to the project directory:
    ```bash
